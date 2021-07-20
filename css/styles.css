@@ -1,0 +1,26 @@
+.profile-pic{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+body {
+    background-color: #EAF6F6;
+}
+hr {
+    border-style: dotted none none;
+    width: 60px;
+    border-width: 5px;
+    /* background-color: none; */
+    border-color: #D6D2C4;
+}
+h1, h3 {
+    color: #66bfbf;
+}
+.fill-star {
+    color: transparent;  
+    text-shadow: 0 0 0 #ffd549;
+}
+.unfill-star {
+    color: transparent;  
+    text-shadow: 0 0 0 #b9b8b8;
+}
